@@ -6,3 +6,10 @@ Kuvaus sovelluksen ominaisuuksista löytyy kurssimateriaalien [kuinka valita aih
 
 ## Vaihtoehto 2: Valo- ja videokuvausbisneksen portfoliosivu
 
+Olisiko tämä mahdollista toteuttaa mielestäsi sellaisessa laajuudessa, että kurssin osaamis- ja tekemisvaatimukset täyttyisivät tyydyttävästi?  
+
+Tietokannan taustalleen tarvitsevia toiminnallisuuksia voisi olla esimerkiksi  
+* portfoliosivulla olevien kuvien tallentaminen kategoroittain / avainsanoin.
+* kuvien hakeminen kategorioiden / avainsanojen perusteella.
+* kommenttien jättäminen sivulla oleviin kuviin.
+* Pitäisikö keksiä lisää selkeästi erilaisia toiminnallisuuksia? En ole koskaan aiemmin tehnyt mitään tällaista, niin en oikein osaa hahmottaa "scouppia".
