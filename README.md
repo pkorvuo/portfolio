@@ -1,3 +1,3 @@
-Tämä on rivi  
-Tämän pitäisi olla toinen rivi <br>
-Jos kaikki meni oikein, niin tämä on kolmas rivi.
+# Web-ohjelmoinnin harjoitustyö
+
+## Vaihtoehto 1: Ihan vain geneerinen keskustelusovellus / 4chan-klooni
