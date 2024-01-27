@@ -1,0 +1,7 @@
+.right-corner {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 10px;
+    font-size: 20px;
+}
